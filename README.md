@@ -54,5 +54,13 @@ The first time you run it, you will be prompted to enter your Telegram phone num
 ## Safety Note
 This script uses your personal Telegram account to download files. **Do not share your `.env` file or your `session_downloader.session` file with anyone**, as it grants full access to your Telegram account.
 
+## Contributing
+Contributions are always welcome! If you have any ideas, suggestions, or bug fixes, feel free to contribute:
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
 ## License
 MIT
